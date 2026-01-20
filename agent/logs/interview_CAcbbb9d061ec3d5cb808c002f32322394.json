@@ -1,0 +1,68 @@
+{
+  "call_sid": "CAcbbb9d061ec3d5cb808c002f32322394",
+  "timestamp": "2026-01-20T11:04:06.554828",
+  "status": "completed",
+  "job_description": "Design, develop, and deploy machine learning and deep learning models\r\n\r\nBuild end-to-end AI pipelines: data preprocessing \u2192 training \u2192 evaluation \u2192 deployment\r\n\r\nWork with LLMs, NLP, Computer Vision, or Predictive Models (based on use case)\r\n\r\nOptimize models for performance, scalability, and cost\r\n\r\nIntegrate AI models with APIs, backend services, and applications\r\n\r\nMonitor model performance and retrain models when required\r\n\r\nStay updated with the latest AI/ML research and industry trends\r\n\r",
+  "resume_summary": "Vaibhavee Singh\n\u0083 +91-9934110241\n# vaibhaveesingh89@gmail.com\n\u0080 portfolio-website-vaibhavee\n\u00a7 github.com/Vaibhavee89\n\u00ef linkedin.com/in/vaibhavee-singh-1b7996252\nX: https://leetcode.com/u/vaibhaveesingh89/\nWork Experience\n\u2022 AI Engineering Intern, Scopely Sep 2025 - present\n\u2013 Built an AI-powered presentation judging platform combining slide content analysis, speech transcrip-\ntion, and rule-based/ML-driven scoring to automate and standardize evaluation.\n\u2013 Built a resume shortlisting system using G",
+  "conversation": [
+    {
+      "role": "user",
+      "content": "I'm working as an engineer intern at school, please?"
+    },
+    {
+      "role": "assistant",
+      "content": "That sounds like a great opportunity! I see you're currently an AI Engineering Intern at Scopely. Can you tell me more about a specific project you worked on there and the technologies you used?"
+    },
+    {
+      "role": "user",
+      "content": "Do you take CSC 2026 batch?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, I see that you are a B.Tech student in Computer Science and Engineering, expected to graduate in 2026. How do you feel your academic experience has prepared you for your role in AI and machine learning, especially with your current internship at Scopely?"
+    },
+    {
+      "role": "user",
+      "content": "so throughout my admin journey, I have worked on multiple research projects developing various NLP models throughout and also"
+    },
+    {
+      "role": "assistant",
+      "content": "That's impressive! Working on multiple NLP projects must have provided you with a solid foundation in that area. Can you share more about one particular NLP model you developed and the specific challenges you faced during that project?"
+    },
+    {
+      "role": "user",
+      "content": "At school please. I'm working on the production level AI."
+    },
+    {
+      "role": "assistant",
+      "content": "It's great to hear that you're gaining production-level experience in AI. Can you explain how your work at Scopely, particularly with the AI-powered presentation judging platform, contributed to this hands-on experience with production-level systems?"
+    },
+    {
+      "role": "user",
+      "content": "Building production level your system."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand you're focused on building production-level systems. What strategies did you implement while developing the AI-powered presentation judging platform to ensure its scalability and reliability?"
+    }
+  ],
+  "exchange_count": 5,
+  "evaluation": {
+    "technical_fit": 8,
+    "experience_relevance": 7,
+    "communication": 3,
+    "problem_solving": 5,
+    "culture_fit": 6,
+    "overall_score": 5.8,
+    "decision": "REJECT",
+    "summary": "The candidate has strong technical skills and relevant experience but struggled to communicate clearly during the interview. Their problem-solving abilities were not adequately demonstrated, and responses were often incomplete.",
+    "strengths": [
+      "Technical skills in AI and ML",
+      "Relevant internship experience"
+    ],
+    "areas_of_concern": [
+      "Ineffective communication",
+      "Poor demonstration of problem-solving"
+    ]
+  }
+}

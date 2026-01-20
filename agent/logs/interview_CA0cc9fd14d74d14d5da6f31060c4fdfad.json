@@ -1,0 +1,51 @@
+{
+  "call_sid": "CA0cc9fd14d74d14d5da6f31060c4fdfad",
+  "timestamp": "2026-01-20T11:13:00.181481",
+  "status": "in_progress",
+  "job_description": "Design, develop, and deploy machine learning and deep learning models\r\n\r\nBuild end-to-end AI pipelines: data preprocessing \u2192 training \u2192 evaluation \u2192 deployment\r\n\r\nWork with LLMs, NLP, Computer Vision, or Predictive Models (based on use case)\r\n\r\nOptimize models for performance, scalability, and cost\r\n\r\nIntegrate AI models with APIs, backend services, and applications\r\n\r\nMonitor model performance and retrain models when required\r\n\r\nStay updated with the latest AI/ML research and industry trends\r\n\r",
+  "resume_summary": "Vaibhavee Singh\n\u0083 +91-9934110241\n# vaibhaveesingh89@gmail.com\n\u0080 portfolio-website-vaibhavee\n\u00a7 github.com/Vaibhavee89\n\u00ef linkedin.com/in/vaibhavee-singh-1b7996252\nX: https://leetcode.com/u/vaibhaveesingh89/\nWork Experience\n\u2022 AI Engineering Intern, Scopely Sep 2025 - present\n\u2013 Built an AI-powered presentation judging platform combining slide content analysis, speech transcrip-\ntion, and rule-based/ML-driven scoring to automate and standardize evaluation.\n\u2013 Built a resume shortlisting system using G",
+  "conversation": [
+    {
+      "role": "user",
+      "content": "so, I'm probably thinking we take  Uh, CSE student 2026 batch. And I have also, I have specialized in cloud computing and currently, I'm working as an AI engineer at scopely. I have also published multiple research papers, uh, on training models and NLP. And, um,  and I want to pursue, uh,  Ai and Engineering further. In my career, I want to grow in this direction.  Oh wow."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for sharing that, Vaibhavee! It sounds like you have a strong foundation in AI and cloud computing, along with some impressive accomplishments in research. Could you tell me more about how your experience as an AI Engineering Intern at Scopely has shaped your skills and knowledge in the field? What have been some key learnings or experiences during your time there?"
+    },
+    {
+      "role": "user",
+      "content": "Um, let's go play. I learned, uh, I had built multiple AI projects for a personal project, but I had never worked in an Enterprise level, um, uh, AI project but at scopely, I finally understood how the system work. How we can use AI in real time, how we can optimize, how we can optimize all the workflows using AI Etc. And currently, we are building a centralized platform for uh for uh an internal tool on an internal tool, which would help development of games throughout the organization."
+    },
+    {
+      "role": "assistant",
+      "content": "That sounds like a fantastic learning experience, especially getting to work on an enterprise-level project! You mentioned building multiple AI projects personally\u2014could you elaborate on a specific project you are most proud of? What was your role in that project, what technologies did you use, and what was the impact of your work?"
+    },
+    {
+      "role": "user",
+      "content": "Effects of development.  Over."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand that you may need a moment. It seems like you might be referring to your personal projects, but could you clarify or expand on one of the significant projects you worked on? Perhaps you could highlight the objectives and outcomes and any challenges you faced during the development process? Your insights could be really valuable!"
+    },
+    {
+      "role": "user",
+      "content": "So I'm currently working on the development of Kopi AI which would be an internal tool required. Uh the organization it would have context of each and everything going on. Oh overall, in the organization, it could have it would be synced, it would be an RA application, which would have, um, context of everything. So I'm currently work on development of that, which would be used by more than 3,000 people.  Overall."
+    },
+    {
+      "role": "assistant",
+      "content": "That sounds like a significant project, Vaibhavee! Developing an internal tool that will be utilized by over 3,000 people must come with its own set of challenges and responsibilities. Can you share more about the technologies you are using for this project and how you're ensuring that the AI models will perform effectively and meet the needs of a large user base? Additionally, how are you handling user feedback and incorporating it to optimize the tool?"
+    },
+    {
+      "role": "user",
+      "content": "Um, so we are uh, using liberate chat as the base.  Uh, base application, which is an open-source.  Tool similar to charge repeated where you can configure a lot of um AI models.  Over there. We are also thinking a lot of mCP tools, for example, GitHub mcpg Drive mCP, which um, conference your jira Etc, which were  Which would create a centralized platform, which would have  context."
+    },
+    {
+      "role": "assistant",
+      "content": "It's great to hear that you're leveraging open-source tools like LibreChat and GitHub for your project\u2014it sounds like a robust approach! Integrating various platforms like JIRA to create a centralized context is a smart way to enhance productivity and collaboration within the organization.\n\nAs you're working through this development, have you encountered any significant challenges or obstacles? If so, how did you approach resolving them? It would be interesting to hear how you handle problem-solving in a project of this scale."
+    }
+  ],
+  "exchange_count": 5,
+  "evaluation": null
+}

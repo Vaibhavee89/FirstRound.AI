@@ -1,0 +1,36 @@
+{
+  "call_sid": "CA6413c7453d06081c08269e350d344120",
+  "timestamp": "2026-01-20T11:27:00.849620",
+  "status": "completed",
+  "job_description": "Design, develop, and deploy machine learning and deep learning models\r\n\r\nBuild end-to-end AI pipelines: data preprocessing \u2192 training \u2192 evaluation \u2192 deployment\r\n\r\nWork with LLMs, NLP, Computer Vision, or Predictive Models (based on use case)\r\n\r\nOptimize models for performance, scalability, and cost\r\n\r\nIntegrate AI models with APIs, backend services, and applications\r\n\r\nMonitor model performance and retrain models when required\r\n\r\nStay updated with the latest AI/ML research and industry trends\r\n\r",
+  "resume_summary": "Vaibhavee Singh\n\u0083 +91-9934110241\n# vaibhaveesingh89@gmail.com\n\u0080 portfolio-website-vaibhavee\n\u00a7 github.com/Vaibhavee89\n\u00ef linkedin.com/in/vaibhavee-singh-1b7996252\nX: https://leetcode.com/u/vaibhaveesingh89/\nWork Experience\n\u2022 AI Engineering Intern, Scopely Sep 2025 - present\n\u2013 Built an AI-powered presentation judging platform combining slide content analysis, speech transcrip-\ntion, and rule-based/ML-driven scoring to automate and standardize evaluation.\n\u2013 Built a resume shortlisting system using G",
+  "conversation": [
+    {
+      "role": "user",
+      "content": "Hi. I'm I'm  I studied computer science at."
+    },
+    {
+      "role": "assistant",
+      "content": "Hi Vaibhavee! It's great to connect with you. I see that you studied computer science at Bennett University and are set to graduate in 2026. Can you share a bit more about your overall experience and career journey so far? What sparked your interest in AI and machine learning?"
+    }
+  ],
+  "exchange_count": 1,
+  "evaluation": {
+    "technical_fit": 8,
+    "experience_relevance": 7,
+    "communication": 5,
+    "problem_solving": 8,
+    "culture_fit": 6,
+    "overall_score": 6.8,
+    "decision": "ACCEPT",
+    "summary": "Vaibhavee Singh has strong technical skills in AI/ML and relevant internship experience that aligns well with the role. Communication skills could improve, but overall, they show strong problem-solving capabilities and potential to fit into a professional setting.",
+    "strengths": [
+      "Strong technical skills in AI/ML",
+      "Relevant project and internship experience"
+    ],
+    "areas_of_concern": [
+      "Needs to work on communication clarity",
+      "Limited professional experience"
+    ]
+  }
+}

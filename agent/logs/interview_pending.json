@@ -1,0 +1,51 @@
+{
+  "call_sid": "pending",
+  "timestamp": "2026-01-20T10:42:31.241529",
+  "status": "in_progress",
+  "job_description": "",
+  "resume_summary": "",
+  "conversation": [
+    {
+      "role": "user",
+      "content": "So I am saying, and I'm working as an AI engineer at scopely."
+    },
+    {
+      "role": "assistant",
+      "content": "That's great! Can you tell me about a recent project you worked on at Scopely and your specific role in it?"
+    },
+    {
+      "role": "user",
+      "content": "I am currently working on development of an internal AI tool called Scoopy, a which would be a centralized platform and it would have access to all the scope Leah."
+    },
+    {
+      "role": "assistant",
+      "content": "That sounds interesting! What are some of the key challenges you've faced while developing Scoopy, and how have you addressed them?"
+    },
+    {
+      "role": "user",
+      "content": "So, the main challenge was thinking all the documents at 1 place. So for that, we had 2 sink, all the documents on llama index, and then we had"
+    },
+    {
+      "role": "assistant",
+      "content": "It sounds like an intricate process. Could you share how you ensured the information was accurately synchronized using the Llama Index?"
+    },
+    {
+      "role": "user",
+      "content": "oh,"
+    },
+    {
+      "role": "assistant",
+      "content": "No worries, it's a complex task! Since we're wrapping up, is there anything else you'd like to highlight about your skills or experience?"
+    },
+    {
+      "role": "user",
+      "content": "I'm currently I'm currently in the final year of my btech CSC and I'm looking for an opportunity to grow as a full stack engineer along with AI skills."
+    },
+    {
+      "role": "assistant",
+      "content": "That\u2019s a great combination of skills! Your background in AI and interest in full stack development makes you a versatile candidate. Thank you for sharing your experience and goals. We'll be in touch soon about the next steps. Have a great day!"
+    }
+  ],
+  "exchange_count": 5,
+  "evaluation": null
+}

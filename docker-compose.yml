@@ -1,0 +1,30 @@
+services:
+  agent:
+    build: ./agent
+    ports:
+      - "7860:7860"
+    environment:
+      - DAILY_API_KEY=${DAILY_API_KEY}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - DEEPGRAM_API_KEY=${DEEPGRAM_API_KEY}
+      - CARTESIA_API_KEY=${CARTESIA_API_KEY}
+      - TWILIO_ACCOUNT_SID=${TWILIO_ACCOUNT_SID}
+      - TWILIO_AUTH_TOKEN=${TWILIO_AUTH_TOKEN}
+      - TWILIO_PHONE_NUMBER=${TWILIO_PHONE_NUMBER}
+      - WEBHOOK_BASE_URL=${WEBHOOK_BASE_URL}
+    volumes:
+      - ./agent:/app
+      - ./agent/logs:/app/logs
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_AGENT_URL=http://agent:7860
+      - AGENT_URL=http://agent:7860
+    depends_on:
+      - agent
+    volumes:
+      - ./jobs.json:/app/jobs.json
+      - ./applications.json:/app/applications.json

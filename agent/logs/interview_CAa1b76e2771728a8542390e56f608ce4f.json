@@ -1,0 +1,68 @@
+{
+  "call_sid": "CAa1b76e2771728a8542390e56f608ce4f",
+  "timestamp": "2026-01-20T11:40:15.505543",
+  "status": "completed",
+  "job_description": "Design, develop, and deploy machine learning and deep learning models\r\n\r\nBuild end-to-end AI pipelines: data preprocessing \u2192 training \u2192 evaluation \u2192 deployment\r\n\r\nWork with LLMs, NLP, Computer Vision, or Predictive Models (based on use case)\r\n\r\nOptimize models for performance, scalability, and cost\r\n\r\nIntegrate AI models with APIs, backend services, and applications\r\n\r\nMonitor model performance and retrain models when required\r\n\r\nStay updated with the latest AI/ML research and industry trends\r\n\r",
+  "resume_summary": "Apoorva Agrawal\naabenuni@gmail.com +91 8368515798 linkedin.com/in/apoorva-agrawal-101627248 github.com/Apoo141104\nEDUCATION\nB.Tech in Computer Science (Artificial Intelligence), Bennett University, Greater Noida 09/2022 \u2013 11/2026 | Greater Noida, India\n\u2022CGPA: 8.19/10 | GATE 2025, CSE Qualified\nHigh School Diploma, Aster Public School 06/2018 \u2013 08/2022 | Greater Noida, India\n\u202212th Grade:83.38% | 10th Grade:92.4%\nPROFESSIONAL EXPERIENCE\nScopely, AI Engineer Intern Present | Bangalore\n\u2022Developed ag",
+  "conversation": [
+    {
+      "role": "user",
+      "content": "Hello. Hello. I'm a good work Dal. I'm from Bonet University. I'm currently in my fourth year of BC computer science with specialization Ai and right now I'm doing an internship at scotley games private limited and um I I like to work in the field of AI  That's all about me."
+    },
+    {
+      "role": "assistant",
+      "content": "Hi Apoorva! It's great to meet you. I appreciate you sharing a bit about your background. Can you tell me more about your overall experience and career journey so far? What led you to pursue a specialization in AI, and how have your internships shaped your interests in this field?"
+    },
+    {
+      "role": "user",
+      "content": "um,  And right now in the world, everyone is um, working on AI and they're asking different type of tools coming up.  and,  if I had to choose the career, and  Something that was based on impact Innovation and with logic, that's why I chose AI.  Over at the career options. And  Still now, um, I've made different projects have been part of different, um, competition and have this, um, have written research papers. I need this internship,"
+    },
+    {
+      "role": "assistant",
+      "content": "That's a fantastic perspective, Apoorva! It's exciting to see how you\u2019re driven by impact and innovation in AI. I\u2019d love to dive deeper into your technical skills. \n\nYou mentioned working on various projects and tools during your internship at Scopely. Can you elaborate on the technical skills you've developed there, especially in developing AI workflows and integrating AI models with APIs? What technologies and frameworks have you used, and how do you feel they align with the requirements of the role we're discussing?"
+    },
+    {
+      "role": "user",
+      "content": "In this way.  Go ahead."
+    },
+    {
+      "role": "assistant",
+      "content": "It seems like there might have been a bit of confusion there. Let\u2019s focus on your experiences. Could you share a specific project from your internship at Scopely where you developed AI workflows? What was your role in that project, and which technologies and tools did you utilize? I'm particularly interested in how you integrated AI models within that context."
+    },
+    {
+      "role": "user",
+      "content": "so with my business, um, with my colleague I developed  A project called is the AI is cleaner, that that could help the HR. Um,  Team to, uh, screen hundreds of resumes that of time.  and um, so I use open AI, um, in this project and  There were more projects like um which 1, there was a project that I made in the architecture of scope. Um, scope 3.  in which there were, um,"
+    },
+    {
+      "role": "assistant",
+      "content": "That sounds like some valuable work, Apoorva! Developing an AI tool for screening resumes must have involved some interesting challenges and technical considerations. Can you tell me more about how you implemented that project? For instance, what specific features did you focus on, and how did you ensure the model was effective in identifying suitable candidates? Additionally, were there any challenges you faced while deploying the AI cleaner tool?"
+    },
+    {
+      "role": "user",
+      "content": "Game. Um,"
+    },
+    {
+      "role": "assistant",
+      "content": "I understand it might be a bit tricky to organize your thoughts. No worries! Let\u2019s take it step by step. \n\nCan you briefly describe one specific challenge you encountered while working on the AI cleaner project, and how you overcame it? This could relate to model performance, integration, or even user feedback. I\u2019d love to hear more about your problem-solving approach!"
+    }
+  ],
+  "exchange_count": 5,
+  "evaluation": {
+    "technical_fit": 8,
+    "experience_relevance": 7,
+    "communication": 4,
+    "problem_solving": 5,
+    "culture_fit": 6,
+    "overall_score": 6.0,
+    "decision": "ACCEPT",
+    "summary": "Apoorva Agrawal possesses a solid technical foundation and relevant internship experience in AI, making them a potential fit for the role. However, their communication clarity and problem-solving articulation need improvement.",
+    "strengths": [
+      "Solid technical skills in AI and ML",
+      "Relevant internship experience with real-world projects"
+    ],
+    "areas_of_concern": [
+      "Inability to articulate thoughts clearly",
+      "Limited demonstration of problem-solving examples"
+    ]
+  }
+}

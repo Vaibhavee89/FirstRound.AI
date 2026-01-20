@@ -1,0 +1,60 @@
+{
+  "call_sid": "CAcc78207d50d9fc3c36c4a5985d8ff004",
+  "timestamp": "2026-01-20T11:59:49.641295",
+  "status": "completed",
+  "job_description": "Design, develop, and deploy machine learning and deep learning models\r\n\r\nBuild end-to-end AI pipelines: data preprocessing \u2192 training \u2192 evaluation \u2192 deployment\r\n\r\nWork with LLMs, NLP, Computer Vision, or Predictive Models (based on use case)\r\n\r\nOptimize models for performance, scalability, and cost\r\n\r\nIntegrate AI models with APIs, backend services, and applications\r\n\r\nMonitor model performance and retrain models when required\r\n\r\nStay updated with the latest AI/ML research and industry trends\r\n\r",
+  "resume_summary": "Vaibhavee Singh\n\u0083 +91-9934110241\n# vaibhaveesingh89@gmail.com\n\u0080 portfolio-website-vaibhavee\n\u00a7 github.com/Vaibhavee89\n\u00ef linkedin.com/in/vaibhavee-singh-1b7996252\nX: https://leetcode.com/u/vaibhaveesingh89/\nWork Experience\n\u2022 AI Engineering Intern, Scopely Sep 2025 - present\n\u2013 Built an AI-powered presentation judging platform combining slide content analysis, speech transcrip-\ntion, and rule-based/ML-driven scoring to automate and standardize evaluation.\n\u2013 Built a resume shortlisting system using G",
+  "conversation": [
+    {
+      "role": "user",
+      "content": "Um, hello. And I'm currently interning at scapa as an AI engineer. Um, B Tech CSC 2026, batch student.  And I would like to pursue my career as an AI engineer.  I  am."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, Vaibhavee! It's great to have you here today. Thank you for introducing yourself. \n\nTo start off, could you tell me a bit more about your overall experience and your career journey so far? What led you to pursue a career in AI engineering?"
+    },
+    {
+      "role": "user",
+      "content": "So uh, uh in college, uh, in uh, initially I had worked on uh, training models and Publishing research papers, but then I got um, curious about how things work in, uh, the real world environment. So I want to pursue my career. So I and then I got an opportunity to  Intern at school. So I thought that uh yes, this is what I want to do."
+    },
+    {
+      "role": "assistant",
+      "content": "That's fascinating, Vaibhavee! It sounds like your curiosity about practical applications in the real world really drove your interest in AI. You mentioned working on training models and publishing research papers in college. Can you elaborate on some specific skills or experiences from that time that you believe have prepared you for your current role as an AI engineer intern?"
+    },
+    {
+      "role": "user",
+      "content": "3 minutes.  So, this is what I will do.  and it will evaluate you on against what against  School you out there.  okay, I need basically has  an understanding of what a technical if it looks like.  Based on the JD and then judge you on that, okay?  Problem, solving problem solving.  Problem solving in the sense like it would ask you questions. See what  difficult."
+    },
+    {
+      "role": "assistant",
+      "content": "It seems like you might have been quoting or paraphrasing something. Let's refocus on your experiences! \n\nCould you describe a specific project you worked on during your internship at Scopely? What was your role in that project, and what were some of the challenges you faced? How did you contribute to the overall success of that project?"
+    },
+    {
+      "role": "user",
+      "content": "Overall, I guess."
+    },
+    {
+      "role": "assistant",
+      "content": "It seems like you may have been unsure or didn't finish your thought. That's perfectly okay! Let\u2019s break it down a bit. \n\nCould you share more details about one specific project you worked on at Scopely\u2014perhaps the AI-powered presentation judging platform? What particular challenges did you encounter during its development, and how did you overcome them? Your insights on the contributions you made would also be valuable."
+    }
+  ],
+  "exchange_count": 4,
+  "evaluation": {
+    "technical_fit": 8,
+    "experience_relevance": 7,
+    "communication": 3,
+    "problem_solving": 4,
+    "culture_fit": 5,
+    "overall_score": 5.4,
+    "decision": "REJECT",
+    "summary": "Vaibhavee Singh shows strong technical skills that match the job description and relevant experience in AI/ML projects. However, her communication skills were lacking, impacting clarity in responses.",
+    "strengths": [
+      "Strong technical skills",
+      "Relevant AI/ML experience"
+    ],
+    "areas_of_concern": [
+      "Weak communication skills",
+      "Limited demonstration of problem-solving abilities"
+    ]
+  }
+}
