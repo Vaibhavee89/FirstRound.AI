@@ -26,5 +26,5 @@ services:
     depends_on:
       - agent
     volumes:
-      - ./jobs.json:/app/jobs.json
-      - ./applications.json:/app/applications.json
+      - ./frontend/jobs.json:/app/jobs.json
+      - ./frontend/applications.json:/app/applications.json
