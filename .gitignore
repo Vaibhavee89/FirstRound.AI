@@ -1,1 +1,11 @@
 .env
+
+# Python
+__pycache__/
+*.pyc
+agent/venv/
+
+# Node / Next.js
+node_modules/
+frontend/.next/
+frontend/.vercel/

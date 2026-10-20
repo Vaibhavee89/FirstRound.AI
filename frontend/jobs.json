@@ -1,0 +1,20 @@
+[
+  {
+    "id": "frontend-engineer",
+    "title": "Frontend Engineer",
+    "location": "Remote (US)",
+    "description": "We are hiring a Frontend Engineer to build fast, accessible React and Next.js interfaces. You will own features end to end, from component design to performance and testing. Strong TypeScript, CSS, and a habit of shipping small, well-tested changes are essential. Bonus: experience with design systems and real-time media."
+  },
+  {
+    "id": "backend-engineer",
+    "title": "Backend Engineer (Python)",
+    "location": "New York, NY",
+    "description": "We are looking for a Backend Engineer to design and operate Python services with FastAPI. You will work on APIs, background jobs, and third-party integrations, and care about reliability, observability, and clear data models. Experience with async Python and cloud deployment is a plus."
+  },
+  {
+    "id": "ml-engineer",
+    "title": "Machine Learning Engineer",
+    "location": "San Francisco, CA",
+    "description": "Join us to build speech and language systems for real-time conversations. You will evaluate and integrate LLMs, speech-to-text, and text-to-speech models, and improve latency and quality in production. Solid understanding of model evaluation, prompt design, and Python is required."
+  }
+]
